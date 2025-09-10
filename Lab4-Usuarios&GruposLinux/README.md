@@ -63,7 +63,7 @@ Trocamos para o usuário *arosalez* utilizando o comando <code>su arosalez</code
 ![](images/2025-09-09-17-18-07.png) <br>
 Quando utilizamos o comando <code>touch myFile.txt</code>, o sistema retorna que não temos permissão para realizar a ação. Em seguida, tentamos utilizar o comando sudo, porém o usuário *arosalez* não faz parte da lista de Administradores. Portanto não pode usar *sudo*: <br>
 ![](images/2025-09-09-17-22-30.png) <br>
-Aqui, após executar o comando <code>sudo cat /var/log/secure</code>, podemos ver o log que informa as ações "de risco" que tentamos realizar com o usuário *arosalez*:
+Aqui, após executar o comando <code>sudo cat /var/log/secure</code>, podemos ver o log que informa as ações "de risco" que tentamos realizar com o usuário *arosalez*: <br>
 ![](images/2025-09-09-17-21-51.png)
 
 
