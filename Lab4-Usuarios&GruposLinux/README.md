@@ -18,7 +18,7 @@ Conexão realizada: <br>
 - <code>sudo passwd nome_usuario</code>: Cria ou altera a senha do usuário informado. <br>
 - <code>sudo cat /etc/passwd | cut -d: -f1</code>: Exibe o conteúdo presente no arquivo *"/etc/passwd"*, e filtra para exibir apenas os elementos da primeira coluna de texto, que é o nome dos usuários.
 
-Iniciamos com o comando <code>pwd</code>, em seguida criamos um usuário e definimos uma senha para este usuário, com os comandos <code>sudo useradd nome_usuario</code> e  <code>sudo passwd nome_usuario</code> respectivamente:
+Iniciamos com o comando <code>pwd</code>, em seguida criamos um usuário e definimos uma senha para este usuário, com os comandos <code>sudo useradd nome_usuario</code> e  <code>sudo passwd nome_usuario</code> respectivamente: <br>
 ![](images/2025-09-09-16-43-53.png) <br>
 ![](images/2025-09-09-16-44-14.png)
 
