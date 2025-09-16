@@ -1,4 +1,4 @@
-## Laboratório de edi;áo de arquivos no Linux 📄📁🐧.
+# Laboratório de edição de arquivos no Linux 📄📁🐧.
 
 
 
