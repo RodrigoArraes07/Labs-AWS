@@ -1,4 +1,4 @@
-# Laboratório de gerenciamento de arquivos de log no Linux 🐧.
+# Laboratório de trabalho com comandos no Linux 🐧.
 
 
 ## Task 1: Use SSH to connect to an Amazon Linux EC2 instance
