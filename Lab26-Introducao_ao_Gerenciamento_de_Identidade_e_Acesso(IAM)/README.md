@@ -1,4 +1,4 @@
-# Laboratório de introdução ao gerenciamento de acesso utilizando IAM.
+# Laboratório de introdução ao gerenciamento de acesso utilizando IAM - Segurança 💻🛡🔒.
 
 <h3>Neste laboratório, vou aprender a controlar o acesso na AWS usando o IAM. Vou criar regras de senha, organizar usuários em grupos com permissões específicas e testar na prática como essas políticas permitem ou bloqueiam o acesso aos serviços, garantindo que apenas pessoas autorizadas consigam usar os recursos da rede.</h3>
 
