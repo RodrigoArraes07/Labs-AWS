@@ -1,7 +1,9 @@
 # Laboratórios AWS ☁️🖥️
 
 ## Apresentação:
-Olá, meu nome é Rodrigo, e vou usar este repositório para documentar todas as experiências práticas que vou ter durante o curso de **AWS Cloud Pratictioner** que estou participando, disponibilizado pelo **Instituto Aliança** de Recife-PE. O curso também conhecido como **AWS re/Start** nos ensina desde a parte teória de grande parte dos serviços em nuvem fornecidos pela AWS, até a parte prática, onde aprendemos a utilizar estes serviços na prática, durante o desenvolvimento dos laboratórios que irei documentar neste repositório. Além de ser uma forma de mostrar o meu aprendizado durante esse curso, este repositório também pode ajudar pessoas que se interessem pelos conhecimentos de AWS, que podem usar esse repositório como uma ferramenta de estudo/auxílio.
+Olá! Sou Rodrigo e utilizo este repositório para registrar as experiências práticas que estou vivenciando no curso **AWS Cloud Practitioner** (programa **AWS re/Start**), oferecido pelo **Instituto Aliança** em Recife-PE. O programa abrange desde a base teórica dos principais serviços de nuvem da AWS até a aplicação prática, por meio de laboratórios que documento aqui com passo a passo e imagens.
+
+Além de evidenciar meu aprendizado ao longo do curso, este repositório também serve como material de estudo e apoio para quem tem interesse em AWS.
 ## Sumário
 - [Lab01 — Introdução Amazon EC2](Lab01-IntroducaoAmazonEC2/)
 - [Linux](Linux/)
