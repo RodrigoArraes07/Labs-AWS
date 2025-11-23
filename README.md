@@ -9,6 +9,7 @@ Além de evidenciar meu aprendizado ao longo do curso, este repositório também
 - [Linux](Linux/)
 - [Redes](Redes/)
 - [Introdução à Segurança](Introdu%C3%A7%C3%A3o%20%C3%A0%20Seguran%C3%A7a/)
+- [Bancos de Dados](Bancos_De_Dados/)
 
 ## Estrutura do repositório
 A raiz segue a ordem abaixo para facilitar a navegação:
@@ -18,6 +19,7 @@ A raiz segue a ordem abaixo para facilitar a navegação:
 3. `Linux/`
 4. `Redes/`
 5. `Introdução à Segurança/`
+6. `Bancos_De_Dados/`
 
 Cada pasta contém um `README.md` com o objetivo do laboratório, pré-requisitos (quando houver) e os passos executados, além de uma subpasta `images/` com capturas de tela.
 
@@ -27,6 +29,7 @@ Cada pasta contém um `README.md` com o objetivo do laboratório, pré-requisito
   - [Linux](Linux/): linha de comando, usuários e grupos, permissões, processos, serviços, pacotes, logs e shell scripting.
   - [Redes](Redes/): endereços IP, sub-redes/VPC, recursos de rede, troubleshooting e implantação de servidor web.
   - [Introdução à Segurança](Introdu%C3%A7%C3%A3o%20%C3%A0%20Seguran%C3%A7a/): hardening de rede e sistemas, criptografia, IAM, firewall e malware, monitoramento.
+  - [Bancos de Dados](Bancos_De_Dados/): criação e manipulação de bancos relacionais (MariaDB/MySQL), consultas SQL (incluindo filtros, funções e organização de dados) e serviços gerenciados como Amazon Aurora, DynamoDB e RDS.
 
 ## Sobre
 Este material foi produzido por Rodrigo durante o curso **AWS re/Start**, oferecido pelo **Instituto Aliança** (Recife-PE), para registrar a prática e apoiar outros estudantes interessados em computação em nuvem.
